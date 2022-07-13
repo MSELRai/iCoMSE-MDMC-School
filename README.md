@@ -9,3 +9,5 @@ These tutorials are based on the MoSDeF Cassandra examples and workflows, and fe
   - Gibbs Ensemble Monte Carlo example
 3. Docs
   - Contains documentation for Cassandra and MoSDeF Cassandra
+4. NIST
+  - Contains a summary of data from the NIST database
