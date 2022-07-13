@@ -4,8 +4,8 @@ Collection of Hands On Tutorials for the MC part of the iCoMSE MD/MC School at O
 These tutorials are based on the MoSDeF Cassandra examples and workflows, and feature different simulations of [TraPPE-UA](http://trappe.oit.umn.edu/) Methane
 
 1. 0-NVT
-  -A simple Canonical Ensemble Monte Carlo example to get a flavor of how Monte Carlo is performed with MoSDeF
+  - A simple Canonical Ensemble Monte Carlo example to get a flavor of how Monte Carlo is performed with MoSDeF
 2. 1-GEMC
-  -Gibbs Ensemble Monte Carlo example
+  - Gibbs Ensemble Monte Carlo example
 3. Docs
-  -Contains documentation for Cassandra and MoSDeF Cassandra
+  - Contains documentation for Cassandra and MoSDeF Cassandra
